@@ -1,0 +1,102 @@
+Strix Badunga
+99LH01 1 0 AngelaEn 1
+Strix Badunga
+01HH93 2 0 AveiroEn 3
+Strix Badunga
+09RR12 3 0 AngelaEn 1
+Strix Badunga
+00AO99 4 0 AveiroEn 3
+Strix Badunga
+12HH63 1 0 AngelaEn 1
+Strix Badunga
+13SD34 1 0 LousadaEn 20
+Strix Badunga
+75HF34 1 0 AveiroEn 3
+Strix Badunga
+32AS83 2 0 LousadaEn 20
+Strix Badunga
+75QL64 1 0 FamalicaoEn 40
+Strix Badunga
+12LF85 2 0 AngelaEn 1
+Strix Badunga
+86AM38 1 0 FamalicaoEn 40
+Strix Badunga
+43AS09 3 0 LousadaEn 20
+Kevin Krazinski
+12YR35 2 0 LousadaEn 20
+Kevin Krazinski
+64IL66 1 0 LouresEn 10
+Kevin Krazinski
+12NF89 1 0 FamalicaoEn 40
+Kevin Krazinski
+86AS32 3 0 LouresEn 10
+Kevin Krazinski
+23IJ15 4 0 AngelaEn 1
+Kevin Krazinski
+09AS97 3 0 FamalicaoEn 40
+Kevin Krazinski
+76TU12 1 0 FamalicaoEn 40
+Kevin Krazinski
+23AJ08 1 0 AveiroEn 3
+Kevin Krazinski
+12WL42 4 0 FamalicaoEn 40
+Kevin Krazinski
+19KU23 1 0 STirsoEn 15
+Kevin Krazinski
+04YO98 4 0 STirsoEn 15
+Kevin Krazinski
+03PF65 4 0 STirsoEn 15
+Kevin Krazinski
+29CJ32 2 0 CruzEn 7
+Kevin Krazinski
+LO18QQ 1 0 LouresEn 10
+Kevin Krazinski
+JA04PP 3 0 CruzEn 7
+Kevin Krazinski
+TU23II 1 0 LouresEn 10
+Kevin Krazinski
+JJ22JJ 1 0 CruzEn 7
+Kevin Krazinski
+KS01PO 1 0 CruzEn 7
+Kevin Krazinski
+IT28QI 3 0 LouresEn 10
+Kevin Krazinski
+JF23DK 1 0 STirsoEn 15
+Kevin Krazinski
+MC88LD 3 0 LouresEn 10
+Kevin Krazinski
+UH70SS 2 0 CruzEn 7
+Kevin Krazinski
+GC30WY 1 0 LouresEn 10
+Kevin Krazinski
+JM61KB 2 0 AveiroEn 3
+Kevin Krazinski
+SC03NS 1 0 TelhalEn 5
+Kevin Krazinski
+UP86GA 3 0 STirsoEn 15
+Kevin Krazinski
+LQ18FA 3 0 TelhalEn 5
+Kevin Krazinski
+QM03KL 2 0 BorbaEn 30
+Kevin Krazinski
+ZN55FR 1 0 TelhalEn 5
+Kevin Krazinski
+UX35VF 1 0 STirsoEn 15
+Kevin Krazinski
+IU07GK 2 0 BorbaEn 30
+Kevin Krazinski
+NZ37NM 2 0 LousadaEn 20
+Kevin Krazinski
+UR65TC 3 0 STirsoEn 15
+Kevin Krazinski
+DR95SC 2 0 STirsoEn 15
+Kevin Krazinski
+BP94GK 3 0 LousadaEn 20
+John Terry
+DZ78RB 1 0 AveiroEn 3
+Kevin Krazinski
+KP50HC 2 0 BorbaEn 30
+John Terry
+NN41EG 1 0 BorbaEn 30
+John Terry
+HT29DK 3 0 LousadaEn 20

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marhc/Documents/THINGS/WORK/3/AEDA/TP/6/aeda2021_p06/Tests/counter.cpp
+queue
+-
+cstdlib
+-
+counter.h
+C:/Users/marhc/Documents/THINGS/WORK/3/AEDA/TP/6/aeda2021_p06/Tests/counter.h
+exceptions.h
+C:/Users/marhc/Documents/THINGS/WORK/3/AEDA/TP/6/aeda2021_p06/Tests/exceptions.h
+time.h
+-
+
+C:/Users/marhc/Documents/THINGS/WORK/3/AEDA/TP/6/aeda2021_p06/Tests/counter.h
+iostream
+-
+queue
+-
+
+C:/Users/marhc/Documents/THINGS/WORK/3/AEDA/TP/6/aeda2021_p06/Tests/exceptions.h
+string
+-
+

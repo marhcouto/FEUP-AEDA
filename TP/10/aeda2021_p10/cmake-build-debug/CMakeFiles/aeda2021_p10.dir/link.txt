@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\aeda2021_p10.dir/objects.a
+C:\mingw64\mingw32\bin\ar.exe cr CMakeFiles\aeda2021_p10.dir/objects.a @CMakeFiles\aeda2021_p10.dir\objects1.rsp
+C:\mingw64\mingw32\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\aeda2021_p10.dir/objects.a -Wl,--no-whole-archive  -o aeda2021_p10.exe -Wl,--out-implib,libaeda2021_p10.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\aeda2021_p10.dir\linklibs.rsp

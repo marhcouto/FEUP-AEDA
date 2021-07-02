@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marhc/Documents/THINGS/WORK/3/AEDA/TP/5/aeda2021_p05/Tests/game.cpp
+game.h
+C:/Users/marhc/Documents/THINGS/WORK/3/AEDA/TP/5/aeda2021_p05/Tests/game.h
+cstdlib
+-
+ctime
+-
+iostream
+-
+
+C:/Users/marhc/Documents/THINGS/WORK/3/AEDA/TP/5/aeda2021_p05/Tests/game.h
+kid.h
+C:/Users/marhc/Documents/THINGS/WORK/3/AEDA/TP/5/aeda2021_p05/Tests/kid.h
+list
+-
+string
+-
+
+C:/Users/marhc/Documents/THINGS/WORK/3/AEDA/TP/5/aeda2021_p05/Tests/kid.h
+string
+-
+sstream
+-
+

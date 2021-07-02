@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marhc/Documents/THINGS/WORK/3/AEDA/TP/10/aeda2021_p10/Tests/box.h
+stack
+-
+iostream
+-
+
+C:/Users/marhc/Documents/THINGS/WORK/3/AEDA/TP/10/aeda2021_p10/Tests/packagingMachine.cpp
+packagingMachine.h
+C:/Users/marhc/Documents/THINGS/WORK/3/AEDA/TP/10/aeda2021_p10/Tests/packagingMachine.h
+sstream
+-
+
+C:/Users/marhc/Documents/THINGS/WORK/3/AEDA/TP/10/aeda2021_p10/Tests/packagingMachine.h
+queue
+-
+vector
+-
+stack
+-
+iostream
+-
+box.h
+C:/Users/marhc/Documents/THINGS/WORK/3/AEDA/TP/10/aeda2021_p10/Tests/box.h
+

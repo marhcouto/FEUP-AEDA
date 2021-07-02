@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marhc/Documents/THINGS/WORK/3/AEDA/TP/9/aeda2021_p09/Tests/bet.cpp
+bet.h
+C:/Users/marhc/Documents/THINGS/WORK/3/AEDA/TP/9/aeda2021_p09/Tests/bet.h
+iostream
+-
+sstream
+-
+
+C:/Users/marhc/Documents/THINGS/WORK/3/AEDA/TP/9/aeda2021_p09/Tests/bet.h
+unordered_set
+-
+vector
+-
+string
+-
+
