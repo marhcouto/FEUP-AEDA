@@ -6,6 +6,4 @@
 
 **CONTENTS:** Solved exercises from the practical classes and Project developped during the course
 
-**FINAL PROJECT GRADE:** 18.6
-
 **FINAL GRADE:** 16
