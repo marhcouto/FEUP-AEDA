@@ -4,6 +4,8 @@
 
 **COURSE:** [Data Structures and Algorithms](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459471) (AEDA)
 
-**CONTENTS:** Solved exercises from the practical classes and Project developped during the course
+**CONTENTS:** 
+- Solved exercises from the practical classes 
+- Project developped during the course
 
 **FINAL GRADE:** 16
